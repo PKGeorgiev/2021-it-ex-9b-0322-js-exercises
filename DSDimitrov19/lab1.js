@@ -1,4 +1,4 @@
-function calc(a, b = 5) {
+function calc(a, b) {
   return a * b;
 }
 
